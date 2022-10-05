@@ -1,0 +1,8 @@
+{
+	"name": "Debian",
+	"image": "mcr.microsoft.com/devcontainers/base:bullseye",
+	"remoteUser": "vscode",
+	"features": {
+		"python": "3.9.7"
+	}
+}
